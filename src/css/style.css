@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+
+.principal{
+    background: rgb(138, 134, 136);
+}
+
+ul, li{
+    cursor: pointer;
+}
