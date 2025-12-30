@@ -1,9 +1,17 @@
-# Projeto
+# 📌 NameFinder
 
-Pequena aplicação web que permite buscar usuários por nome e exibir seus detalhes em um modal interativo. Desenvolvida com JavaScript, jQuery e Bootstrap. Ideal para estudar manipulação de DOM, requisições a APIs e uso de modais dinâmicos.
+Aplicação web simples que permite buscar usuários pelo nome e exibir seus detalhes em um modal interativo. O projeto foi desenvolvido com JavaScript, jQuery e Bootstrap, sendo ideal para praticar conceitos fundamentais de desenvolvimento front-end.
+
+O foco principal é o consumo de APIs, manipulação dinâmica do DOM e controle de fluxo da aplicação de forma clara e objetiva.
+
+## 🚀 Funcionalidades
+
+- Busca de usuários pelo nome via API
+- Exibição dos dados do usuário em um modal dinâmico
+- Feedback visual quando o usuário não é encontrado
 
 
-## O que aprendi neste projeto
+## 📚 O que aprendi com este projeto
 
 Como acessar uma API e obter dados usando fetch (JavaScript) e jQuery.
 
